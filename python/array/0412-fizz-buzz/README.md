@@ -1,4 +1,4 @@
-# Richest Customer Wealth
+# fizz-buzz
 
 - Tipo: Array
 - Dificuldade Easy
