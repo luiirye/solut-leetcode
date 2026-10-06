@@ -2,14 +2,14 @@
 
 - Tipo: Array
 - Dificuldade Easy
+- 0412: FizzBuzz (Explore)
 
 # Link do problema
-https://leetcode.com/problems/richest-customer-wealth/description/
+https://leetcode.com/problems/fizz-buzz/
 
 # Minha explicação e entendimento:
 
-O exercício nos fornece uma lista chamada accounts, que é uma lista para simbolizar clientes e seus valores em conta. cada linha é um cliente diferente e os valores por colunas são seus valores. Ou seja, uma matriz.
+Pelo que entendi, o "jogo" consiste em contar até o número informado pelo usuário. Nos testes, foi até o 15 no máximo.
+como os índices começam em 0, setei o range para que começasse em um e fosse até n + 1 para que pudesse aumentar uma casa no índice e ficar parelho, ao invés de 0 (primeira posição), ficasse 1 (primeira posição ao invés de segunda.)
 
-O primeiro loop for foi escrito para que possa percorrer os clientes e, o segundo loop, para percorrer cada valor, somar e acumular a soma dos valores dentro de customerWealth. 
-
-Em seguida é verificado se o valor somado até aquele momento é o maior e o retorna no fim do método.
+As estruturas condicionais verificam se ao iterar, o número é divisível por 3 e 5, 3 ou apenas o 5, assim armazenando fizz buzz ou fizzbuzz dentro de uma nova lista, além de transformar o número atual (i) em string.

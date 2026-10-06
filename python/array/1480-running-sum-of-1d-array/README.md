@@ -1,4 +1,4 @@
-# Two Sum
+# Running Sum of 1d array
 
 - Categoria: Array
 - Exercício: 1480
