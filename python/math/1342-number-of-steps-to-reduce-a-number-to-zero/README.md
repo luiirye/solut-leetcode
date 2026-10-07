@@ -1,6 +1,6 @@
 # Number Number of Steps to Reduce a Number to Zero
 
-- Categoria: Array
+- Categoria: math
 - Exercício: 1342
 - Dificuldade: easy (verde)
 
