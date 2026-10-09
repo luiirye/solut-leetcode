@@ -1,6 +1,6 @@
 # fizz-buzz
 
-- Tipo: Array
+- Categoria: Math
 - Dificuldade Easy
 - 0412: FizzBuzz (Explore)
 

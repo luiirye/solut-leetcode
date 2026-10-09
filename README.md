@@ -32,7 +32,7 @@ Cada pasta de exercício pode conter:
 | --: | --- | --- | --- |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Array | Easy |
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Array | Hard |
-| 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | Array | Easy |
+| 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | Math | Easy |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Linked List | Easy |
 | 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | Math | Easy |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | Array | Easy |
